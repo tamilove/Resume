@@ -1,7 +1,7 @@
-<div style="text-align:right; font-weight:bold; font-size:28px">Tamara Love</div>
-<div style="text-align:right">Seattle, WA</div>
-<div style="text-align:right">C: 805.215.2944</div>
-<div style="text-align:right">E: thetamilove@gmail.com</div>
+## Tamara Love
+* Seattle, WA<br>
+* C: 805.215.2944<br>
+* E: thetamilove@gmail.com
 
 Career Objective
 --------------
@@ -24,12 +24,14 @@ Key Skills
 
 Education
 ---------
-B.S. in Math with a German Minor <span style="float:right">06/2009</span>
+B.S. in Math with a German Minor<br>
+(06/2009)
 
 Work Experience
 ---------------
-Amazon.com – Seattle, WA <span style="float:right">04/2014 – 05/2015</span>
-Quality Assurance Engineer (HR Systems) 
+Amazon.com – Seattle, WA<br>
+Quality Assurance Engineer (HR Systems)<br>
+(04/2014 – 05/2015)
 
 * Black-Box testing
 * Represent QA in Scrum meetings
@@ -38,8 +40,9 @@ Quality Assurance Engineer (HR Systems)
 * Write and manage defect reports and publish daily status report to the Business
 * Author and manager of our internal team’s Wiki, SharePoint and Jira <br><br>
 
-WesTower Communications – Mercer Island, WA <span style="float:right">07/2013 – 04/2014</span> 
-Data Analysis Lead (California, Nevada, and Hawaii)
+WesTower Communications – Mercer Island, WA<br>
+Data Analysis Lead (California, Nevada, and Hawaii)<br>
+(07/2013 – 04/2014)
 
 * Analyze data packets between WesTower’s UI (User Interface) and AT&amp;T’s UI
 * Internal and external communications between markets and Turf vendor
@@ -49,8 +52,9 @@ Data Analysis Lead (California, Nevada, and Hawaii)
 * Brainstormed organization processes throughout implementation
 * Organized social events for Project Controls department<br><br>
 
-Specialty Bottle – Seattle, WA <span style="float:right">03/2013 – 07/2013</span>
-Admin Office Manager and Technical Assistant (Seattle and Nashville offices)
+Specialty Bottle – Seattle, WA<br>
+Admin Office Manager and Technical Assistant (Seattle and Nashville offices)<br>
+(03/2013 – 07/2013)
 
 * Create and implement warehouse functional procedures
 * Balance accounts payable
@@ -60,8 +64,9 @@ Admin Office Manager and Technical Assistant (Seattle and Nashville offices)
 * Track and purchase sales inventory
 * Administer payroll<br><br>
 
-Shopatron – San Luis Obispo, CA <span style="float:right">10/2011 - 10/2012</span>
-Merchant Support Specialist
+Shopatron – San Luis Obispo, CA<br>
+Merchant Support Specialist<br>
+(10/2011 - 10/2012)
 
 * Internal and external communications on a multi-lined phone and Microsoft Office
 * Supporting merchant e-Commerce accounts through proprietary “Shopatron” software
@@ -71,8 +76,9 @@ Merchant Support Specialist
 * Updated website content with HTML
 * Trained new staff<br><br>
 
-Vellum Financial LLC. – San Luis Obispo, CA <span style="float:right">11/2009 - 06/2010</span>
-Client Relationship and Office Manager
+Vellum Financial LLC. – San Luis Obispo, CA<br>
+Client Relationship and Office Manager<br>
+(11/2009 - 06/2010)
 
 * Served as central point of contact for all office communications
 * Oversaw office supply provisioning
@@ -84,13 +90,15 @@ Client Relationship and Office Manager
 * Distributed marketing materials to client pipeline
 * Became certified as notary public to complete this job’s duties<br><br>
 
-RTCA Environmental Analysis – Elmsford, NY <span style="float:right">08/2009 - 10/2009</span>
-Freelance programmer and Online course developer
+RTCA Environmental Analysis – Elmsford, NY <br>
+Freelance programmer and Online course developer<br>
+(08/2009 - 10/2009)
 
 * Solely created from scratch an online Radon certification course using Adobe Suite.<br><br>
 
-BRISA Entertainment– Reisen, Germany <span style="float:right">06/2008 - 03/2009</span> 
-International Customer Service Operator and Manager of American Dept.
+BRISA Entertainment– Reisen, Germany <br>
+International Customer Service Operator and Manager of American Dept.<br>
+(06/2008 - 03/2009)
 
 * Hired as first supporting member of the American Department in German company
 * Represented company at trade shows and cold calling throughout Europe and Asia
